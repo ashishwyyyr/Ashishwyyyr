@@ -1,4 +1,4 @@
-<img src="https://images.app.goo.gl/64EuSNBJfBAAvrfV8" alt="banner that says Ashish kumar">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate python and mern developer with experience in UI/UX and Digital Marketing.</h3>
 <img
