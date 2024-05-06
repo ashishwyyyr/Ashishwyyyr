@@ -1,11 +1,9 @@
-### Hi there 👋
+[! [MasterHead](https://images.app.goo.gl/E7fPhc3nPraybUVX8)
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate web developer with python and javascript as core language. And an cybersecurity enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate python and mern developer with experience in UI/UX and Digital Marketing.</h3>
+<img
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishwyyyr&label=Profile%20views&color=0e75b6&style=flat" alt="ashishwyyyr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishwyyyr" alt="ashishwyyyr" /></a> </p>
 
 - 🔭 I’m currently working on [Web-Development@adnacdigital](www.adanacdigital.com)
 
@@ -34,18 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishwyyyr&" alt="ashishwyyyr" /></p>
 
-
-<!--
-**ashishwyyyr/Ashishwyyyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
