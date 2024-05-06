@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate python and mern developer with experience in UI/UX and Digital Marketing.</h3>
 <img
