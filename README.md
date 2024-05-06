@@ -1,4 +1,4 @@
-![Header](https://images.app.goo.gl/64EuSNBJfBAAvrfV8)
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate python and mern developer with experience in UI/UX and Digital Marketing.</h3>
 <img
