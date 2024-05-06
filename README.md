@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/E7fPhc3nPraybUVX8)]
+![Header](https://images.app.goo.gl/64EuSNBJfBAAvrfV8)
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate python and mern developer with experience in UI/UX and Digital Marketing.</h3>
 <img
